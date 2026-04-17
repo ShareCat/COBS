@@ -4,6 +4,7 @@ COBS-Consistent-Overhead-Byte-Stuffing
 通信场景用 COBS：专门消除 0x00，工业标准
 
 1、Base64 是通用最快方案，输出天然无 0x00
+
 2、COBS 是通信领域专门消除 0x00 的标准算法
 
 |算法        |    难度 | 膨胀率  |  适用场景|
